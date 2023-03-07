@@ -1,0 +1,5 @@
+a=float(input("Первое число"))
+b=float(input("Второе число"))
+c=[a,b]
+print (min (c))
+print (max(c))
